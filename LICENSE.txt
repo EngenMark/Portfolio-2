@@ -1,0 +1,26 @@
+Copyright (c) 2025 Mark Potapchuk
+
+This website is based on the "Solid State" template by HTML5 UP (https://html5up.net),
+created by AJ (@ajlkn). The template is licensed under the Creative Commons Attribution 3.0 Unported license (CC BY 3.0).
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+Full license text:
+http://creativecommons.org/licenses/by/3.0/
+
+Other credits:
+
+Icons:
+- Font Awesome (https://fontawesome.com)
+
+JavaScript libraries:
+- jQuery (https://jquery.com)
+- Scrollex (https://github.com/ajlkn/jquery.scrollex)
+- Responsive Tools (https://github.com/ajlkn/responsive-tools)
+
+Images used in this portfolio are created by Mark Potapchuk or used with permission. Do not reuse without author’s consent.
